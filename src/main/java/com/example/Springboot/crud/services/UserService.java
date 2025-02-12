@@ -2,7 +2,7 @@ package com.example.Springboot.crud.services;
 
 import java.util.List;
 import java.util.Optional;
-import com.example.Springboot.crud.model.User
+import com.example.Springboot.crud.model.User;
 
 public interface UserService {
     List<User> getAllUsers();
